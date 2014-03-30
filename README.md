@@ -1,3 +1,22 @@
+## imu_pipeline (indigo) - 0.1.3-0
+
+User `chadrockey@theprince` released the packages in the `imu_pipeline` repository into the `indigo` distro by running `/usr/bin/bloom-release imu_pipeline --track indigo --rosdistro indigo --new-track` on `Sun, 30 Mar 2014 08:48:50 -0000`
+
+The `imu_pipeline` package was released.
+
+Version of package(s) in repository `imu_pipeline`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.27`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## imu_pipeline - 0.1.2-0
 
 User `chadrockey@rlu` released the packages in the `imu_pipeline` repository by running `/usr/bin/bloom-release imu_pipeline --track hydro --rosdistro hydro` on `Wed, 21 Aug 2013 17:56:53 -0000`
