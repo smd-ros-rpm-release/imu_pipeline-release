@@ -1,0 +1,12 @@
+Source: ros-indigo-imu-pipeline
+Section: misc
+Priority: extra
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf
+Homepage: http://ros.org/wiki/imu_pipeline
+Standards-Version: 3.9.2
+
+Package: ros-indigo-imu-pipeline
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-geometry-msgs, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf
+Description: imu_pipeline
